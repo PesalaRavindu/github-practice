@@ -1,52 +1,74 @@
-# GitHub Practice
+# Pesala Ravindu
 
-A professional practice repository for learning and improving GitHub workflows, version control, collaboration, and software development fundamentals.
+Software Engineering Undergraduate | Aspiring Developer
 
-## Overview
+A passionate and motivated learner focused on software engineering, problem-solving, and building practical solutions through code. This repository reflects my journey in learning GitHub workflows, version control, and professional software development practices.
 
-This repository serves as a hands-on learning project for exploring Git and GitHub best practices. It is designed to help build confidence in managing repositories, creating meaningful commits, working with branches, and collaborating in a structured development workflow.
+## About Me
 
-The project reflects a strong interest in software engineering, problem-solving, and continuous learning as part of a growing developer journey.
+I am a third-year Software Engineering undergraduate with a strong interest in software development, web technologies, and building meaningful projects. I enjoy learning new concepts, improving my technical skills, and applying them in real-world problem-solving scenarios.
 
-## Goals
+My focus is on continuous growth in:
 
-- Practice professional Git and GitHub workflows
-- Learn branching, commits, pull requests, and merging
-- Improve repository organization and documentation
-- Build a clean and maintainable project structure
-- Strengthen software engineering fundamentals
-- Develop practical collaboration habits
+- Software engineering fundamentals
+- Web development
+- Problem solving and algorithmic thinking
+- Version control with Git and GitHub
+- Clean and maintainable code practices
 
-## Tech Stack
+## Skills
 
-This repository is intended as a general learning space for:
-
-- Git and GitHub
+### Programming Languages
 - Java
 - Python
 - JavaScript
-- HTML and CSS
-- SQL / MySQL
 
-## Repository Purpose
+### Web Technologies
+- HTML
+- CSS
+- Responsive design principles
 
-This project acts as a foundation for:
+### Tools & Practices
+- Git
+- GitHub
+- Version control workflows
+- Collaboration and code review basics
 
-- Learning version control best practices
-- Exploring code organization and project structure
-- Practicing documentation and README writing
-- Building confidence in open-source and collaborative workflows
-- Developing a portfolio-ready GitHub profile
+## Learning Goals
 
-## Suggested Workflow
+- Strengthen my software engineering foundation
+- Improve problem-solving and coding efficiency
+- Build practical and portfolio-worthy projects
+- Learn professional GitHub collaboration workflows
+- Develop clean, readable, and maintainable code
 
-1. Clone the repository
-2. Create a feature branch for your changes
-3. Make focused updates or additions
-4. Commit with clear and descriptive messages
-5. Push the branch to GitHub
-6. Open a pull request and review changes
-7. Merge after confirmation
+## Project Focus
+
+This repository serves as a practice space for:
+
+- Learning Git and GitHub best practices
+- Managing repositories professionally
+- Creating structured and readable documentation
+- Building confidence in collaborative development
+- Preparing for real-world software engineering work
+
+## Repository Highlights
+
+- Clean project documentation
+- Learning-oriented repository structure
+- Practice for professional GitHub usage
+- Foundation for future project development
+
+## Workflow
+
+I follow a simple and professional development workflow:
+
+1. Create or update a feature branch
+2. Make focused, well-documented changes
+3. Commit with clear and descriptive messages
+4. Push the branch to GitHub
+5. Review and open a pull request
+6. Merge after validation
 
 ## Getting Started
 
@@ -55,37 +77,18 @@ git clone https://github.com/PesalaRavindu/github-practice.git
 cd github-practice
 ```
 
-## Project Structure
+## Project Status
 
-```text
-github-practice/
-├── README.md
-├── .gitignore
-├── src/
-├── docs/
-└── assets/
-```
+This repository is currently a learning and practice project, designed to improve technical skills, GitHub workflow knowledge, and professional software development habits.
 
-> This structure is intended as a starting point and can evolve as the project grows.
+## Connect With Me
 
-## Learning Focus
+- GitHub: [Pesala Ravindu](https://github.com/PesalaRavindu)
 
-This repository is part of a broader effort to improve:
+## Thank You
 
-- Software development fundamentals
-- Research and problem-solving skills
-- Collaboration and project communication
-- Clean code and documentation habits
-- Professional GitHub presence
-
-## About the Author
-
-I am a third-year Software Engineering undergraduate with a strong interest in software development, problem-solving, and building practical solutions. I am continuously improving my technical skills and learning how to work effectively in modern development environments.
-
-## Connect
-
-- GitHub: [PesalaRavindu](https://github.com/PesalaRavindu)
+Thank you for visiting my repository. I am always open to learning, collaborating, and improving as a developer.
 
 ---
 
-Built with a focus on learning, improvement, and professional growth.
+Built with a focus on growth, practice, and continuous learning.
